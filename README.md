@@ -4,9 +4,10 @@
 
 🎓 I'm Graduated From Cairo Academy in 2020
 
-💻 I'm Flutter App Developer in Gorgov Digital Market
+💻 I'm Flutter App Developer at Gorgov Digital Market
 
 My Skills : Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / Sql / Getx
+
 
 - 💬 Ask me about Flutter 
 - 📫 How to reach me : rwidaosama33@gmail.com 
