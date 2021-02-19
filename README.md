@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Rwida Osama
 #### I'm Flutter App Developer
-![I'm Flutter App Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDl6MYXHMPJg-VkRIL3oEKwpgSQ9JkUJxWuQ&usqp=CAU)
+![I'm Flutter App Developer](https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif)
 
 🎓 I'm Graduated From Cairo Academy in 2020
 
 💻 I'm Flutter App Developer in Gorgov Digital Market
 
-Skills: Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / Sql / Getx
+My Skills : Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / Sql / Getx
 
 - 💬 Ask me about Flutter 
 - 📫 How to reach me : rwidaosama33@gmail.com 
