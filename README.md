@@ -31,7 +31,7 @@ Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / Sql / Getx /
 <br><br><br>
 
 ### Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rwida) &nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rwida-osama-b936281a5/)   &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rwida.osama)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='https://github.com/rwida' height='40'>](https://github.com/rwida) &nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='https://www.linkedin.com/in/rwida-osama-b936281a5/' height='40'>](https://www.linkedin.com/in/rwida-osama-b936281a5/)   &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='https://www.facebook.com/rwida.osama' height='40'>](https://www.facebook.com/rwida.osama)  
 
 <br>
 
