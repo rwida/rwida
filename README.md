@@ -28,7 +28,7 @@ Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / Sql / Getx /
 <img align="left" alt=“Dart” width="35px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Visual-Studio-Code” width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br><br>
+<br><br><br>
 
 ### Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rwida) &nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rwida-osama-b936281a5/)   &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rwida.osama)  
