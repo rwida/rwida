@@ -12,10 +12,11 @@ My Skills : Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / 
 - 💬 Ask me about Flutter 
 - 📫 How to reach me : rwidaosama33@gmail.com 
 
-
+<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rwida) <span style="display:inline-block; width: 50;"></span>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rwida-osama-b936281a5/)   <span style="display:inline-block; width: 50;"></span> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rwida.osama)  
 
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rwida)](https://github.com/ryo-ma/github-profile-trophy)
 
