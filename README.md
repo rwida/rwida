@@ -10,6 +10,7 @@
 
 💻 I'm Flutter App Developer at Gorgov Digital Market
 
+<br>
 
 ### My Skills
 Dart / Firebase / Graphql / Shopify / StateManagement / FCM / CRM / Sql / Getx / Fluxstore / Provider Pattern / rest api / mailchimp
